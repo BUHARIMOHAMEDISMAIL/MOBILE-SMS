@@ -1,0 +1,11 @@
+{
+  "name": "jobpostwebhook",
+  "version": "1.0.0",
+  "description": "find job which matching your profile",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "ismail",
+  "license": "ISC"
+}
